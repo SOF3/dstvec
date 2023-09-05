@@ -1,0 +1,10 @@
+[package]
+name = "dstvec"
+version = "0.0.1"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2021"
+license = "Apache-2.0"
+repository = "https://github.com/SOF3/dstvec"
+homepage = "https://github.com/SOF3/dstvec"
+readme = "README.md"
+description = "Compact trait object vector storage"
